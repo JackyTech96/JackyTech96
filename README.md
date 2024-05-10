@@ -35,6 +35,7 @@
 <div align="center">
   <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=vscode,visualstudio,mysql,github,git,discord"/>
+    <br/>
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,sass,dotnet,cs"/>
   </a>
 </div>
