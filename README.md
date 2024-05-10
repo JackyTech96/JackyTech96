@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Jacopo+Guelpa!" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">A passionate web developer from Milan</h3>
+<h3 align="center">I am a technology enthusiast with a fervent curiosity for the world of software and development. Here you will find a collection of my projects, experiments and contributions to the open source community.</h3>
 
 <br/>
 
@@ -13,6 +13,8 @@
 🔭 I’m currently working on **my portfolio**
 
 🌱 I’m currently learning **Docker**
+
+💼 I'm looking for a **job**
 
 </div>
 
