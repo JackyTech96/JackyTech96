@@ -12,7 +12,7 @@
   
 🔭 I’m currently working on **my portfolio**
 
-🌱 I’m currently learning **Docker**
+🌱 I’m currently learning **Angular, Docker**
 
 💼 I'm looking for a **job**
 
