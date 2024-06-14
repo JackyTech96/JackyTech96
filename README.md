@@ -14,7 +14,6 @@
 
 🌱 I’m currently learning **Angular, Docker**
 
-💼 I'm looking for a **job**
 
 </div>
 
